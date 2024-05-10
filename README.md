@@ -3,6 +3,8 @@ This YouTube clone project replicates the basic functionalities and design of th
 
 Features:
 
+Video Playback: Users can watch videos with a basic player interface.
+
 Thumbnail Grid: Videos are displayed in a grid layout similar to YouTube's homepage.
 
 Responsive Design: The layout adjusts gracefully to different screen sizes for a seamless viewing experience on various devices.
